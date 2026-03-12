@@ -1,0 +1,46 @@
+[
+  {
+    "source_url": "https://www.youtube.com/watch?v=HcqpanDadyQ",
+    "source_type": "youtube",
+    "author": "Google Cloud Tech",
+    "published_date": "2017-08-24",
+    "language": "en",
+    "region": "Unknown",
+    "topic_tags": [
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Education",
+      "Cloud Computing",
+      "Cloud",
+      "Machine",
+      "Learning",
+      "Google"
+    ],
+    "trust_score": 0.4088,
+    "content_chunks": [
+      "Google Cloud Tech\nGot lots of data? Machine learning can help! In this episode of Cloud AI Adventures, Yufeng Guo explains machine learning from the ground up, using concrete ...\n[Transcript unavailable]"
+    ]
+  },
+  {
+    "source_url": "https://www.youtube.com/watch?v=XVv6mJpFOb0",
+    "source_type": "youtube",
+    "author": "freeCodeCamp.org",
+    "published_date": "2020-11-18",
+    "language": "en",
+    "region": "Unknown",
+    "topic_tags": [
+      "Artificial Intelligence",
+      "Data Scraping",
+      "Python",
+      "Education",
+      "Freecodecamp",
+      "Learn",
+      "Perform",
+      "Scraping"
+    ],
+    "trust_score": 0.425,
+    "content_chunks": [
+      "freeCodeCamp.org\nLearn how to perform web scraping with Python using the Beautiful Soup library.✏️ Tutorial by JimShapedCoding. Check out his YouTube Channel:https://www.yout...\n[Transcript unavailable]"
+    ]
+  }
+]

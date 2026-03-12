@@ -1,0 +1,27 @@
+[
+  {
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/37250956/",
+    "source_type": "pubmed",
+    "author": "Carter M Armstrong, Emma C Snively, Muhammad Shumail, Christopher Nantista, Zenghai Li, Sami Tantawi, Bill W Loo, Richard J Temkin, Robert G Griffin, Jinjun Feng, Roberto Dionisio, Felix Mentgen, Natanael Ayllon, Mark A Henderson, Timothy P Goodman",
+    "published_date": "2023-Jun",
+    "language": "eng",
+    "region": "Unknown",
+    "topic_tags": [
+      "Healthcare",
+      "Vacuum",
+      "Application",
+      "Electronics",
+      "Radio",
+      "Frequency",
+      "Betterment",
+      "Human"
+    ],
+    "trust_score": 0.5557,
+    "content_chunks": [
+      "Title: Frontiers in the Application of RF Vacuum Electronics.\nJournal: IEEE transactions on electron devices\nAuthors: Carter M Armstrong, Emma C Snively, Muhammad Shumail, Christopher Nantista, Zenghai Li, Sami Tantawi, Bill W Loo, Richard J Temkin, Robert G Griffin, Jinjun Feng, Roberto Dionisio, Felix Mentgen, Natanael Ayllon, Mark A Henderson, Timothy P Goodman",
+      "The application of radio frequency (RF) vacuum electronics for the betterment of the human condition began soon after the invention of the first vacuum tubes in the 1920s and has not stopped since. Today, microwave vacuum devices are powering important applications in health treatment, material and biological science, wireless communication-terrestrial and space, Earth environment remote sensing, and the promise of safe, reliable, and inexhaustible energy. This article highlights some of the exciting application frontiers of vacuum electronics."
+    ],
+    "journal": "IEEE transactions on electron devices",
+    "title": "Frontiers in the Application of RF Vacuum Electronics."
+  }
+]
